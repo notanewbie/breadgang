@@ -1,2 +1,2 @@
 # breadgang
-lets get this bread bois
+modelled after https://www.twitch.tv/p/en/about/
